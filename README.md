@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+My name is David, I'm a french software developer living in Switzerland. I have three years of professional experience as a full-stack developer using essentially Django and HTML/CSS/Bootstrap
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-%233776AB?&style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white alt="Django">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/Git-%23F05032?&style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
